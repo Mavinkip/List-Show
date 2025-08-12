@@ -3,18 +3,27 @@
 const Index = () => {
   // Array of all 12 product images
   const productImages = [
-    "/images'/product one.png",
-    "/images'/product 2.png",
-    "/images'/product  3.png",
-    "/images'/product 4.png",
-    "/images'/product  5.png",
-    "/images'/product 6.png",
-    "/images'/product 7.png",
-    "/images'/product  8.png",
-    "/images'/product  9.png",
-    "/images'/product 10.png",
-    "/images'/product  11.png",
-    "/images'/product 12.png"
+    "/images'/product1.png",
+    "/images'/product2.png",
+    "/images'/product3.png",
+    "/images'/product4.png",
+    "/images'/product5.png",
+    "/images'/product6.png",
+    "/images'/product7.png",
+    "/images'/product8.png",
+    "/images'/product9.png",
+    "/images'/product10.png",
+    "/images'/product11.png",
+    "/images'/product12.png",
+    "/images'/product13.png",
+    "/images'/product14.png",
+    "/images'/product15.png",
+    "/images'/product16.png",
+    "/images'/product17.png",
+    "/images'/product18.png",
+    "/images'/product19.png",
+    "/images'/product20.png",
+    
   ];
 
   return (
